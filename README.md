@@ -1,6 +1,6 @@
 ### Hi there 👋
 I make random useless stuff!
-theunkn0wndev.github.io/open-website/
+https://theunkn0wndev.github.io/open-website/
 <!--
 **TheUnkownDeveloper/TheUnkownDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
